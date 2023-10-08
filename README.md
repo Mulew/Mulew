@@ -1,7 +1,4 @@
-A front-end programmer from Addis Ababa, Ethiopia.
-coding
-
-🌱 I’m currently learning JavaScript, React Js 
+FullStack web Developer from Addis Ababa, Ethiopia.
 
 👯 I’m looking to collaborate on a full-stack webpage.
 
